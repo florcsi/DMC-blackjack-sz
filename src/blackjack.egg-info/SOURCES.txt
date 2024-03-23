@@ -9,3 +9,7 @@ src/blackjack.egg-info/dependency_links.txt
 src/blackjack.egg-info/entry_points.txt
 src/blackjack.egg-info/requires.txt
 src/blackjack.egg-info/top_level.txt
+src/blackjack/apis/deck.py
+src/blackjack/models/__init__.py
+src/blackjack/models/card.py
+src/blackjack/models/deck.py
